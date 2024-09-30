@@ -1,7 +1,7 @@
 const timeLeft = document.getElementById('time-left')
 
 //month day year
-const birthday = new Date('05/06/2021')
+const birthday = new Date('16/10/2024')
 
 const second = 1000
 const minute = second * 60
